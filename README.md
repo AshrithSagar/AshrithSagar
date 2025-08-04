@@ -88,7 +88,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
 </a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=latex" alt="latex" width="40" height="40"/>
 </a>
 <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="leetcode" width="40" height="40"/>
@@ -159,6 +159,9 @@
 </a>
 <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
 <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" alt="React Query" title="React Query"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=regex" alt="regex" width="40" height="40"/>
 </a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer">
 <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/>
